@@ -1,0 +1,45 @@
+body{
+    font-family: 'Times New Roman', serif;
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: 120px;
+}
+
+.logo{
+    font-size: 70px;
+    font-weight: bold;
+    color: #7b2d2d;
+}
+
+.search-box{
+    margin-top: 40px;
+}
+
+input{
+    width: 500px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #a87c6d;
+    font-size: 18px;
+}
+
+button{
+    padding: 12px 25px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.search-btn{
+    background-color: #e8e8e8;
+}
+
+.clear-btn{
+    background-color: #e8e8e8;
+}
+
+button:hover{
+    background-color: #d6d6d6;
+}
